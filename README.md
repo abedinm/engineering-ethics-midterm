@@ -38,3 +38,26 @@ All diagrams were drawn for this presentation rather than taken from other sourc
 The deck uses Cambria (headings) and Calibri (body). Both ship with Microsoft Office on
 macOS. If you open it in Keynote or Google Slides the layout may shift — use the PDF for a
 guaranteed-faithful copy.
+
+## slides-png/
+
+Ten PNG images, one per slide, numbered so they sort correctly. Use these if you are
+compositing the video in iMovie: drop them on the timeline as the background, then put
+your talking-head recording on top as Picture in Picture.
+
+Approximate time to hold each slide, based on the speaking script:
+
+| Slide | Hold for | Cumulative |
+|---|---|---|
+| 1 | 0:29 | 0:29 |
+| 2 | 0:50 | 1:19 |
+| 3 | 0:33 | 1:52 |
+| 4 | 0:55 | 2:47 |
+| 5 | 0:38 | 3:25 |
+| 6 | 0:39 | 4:04 |
+| 7 | 0:36 | 4:40 |
+| 8 | 0:38 | 5:18 |
+| 9 | 0:32 | 5:50 |
+| 10 | till the end | 5:52 |
+
+These are estimates from the script. Trust your own recording over this table.
