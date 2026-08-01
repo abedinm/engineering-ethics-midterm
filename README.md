@@ -14,7 +14,7 @@ Individual submission, with the course faculty's permission.
 |---|---|
 | `EE-CO2-Midterm-Presentation-Minhazul-Abedin.pptx` | The deck. 10 slides, speaker notes on every slide (Alt+F5 for Presenter View). |
 | `EE-CO2-Midterm-Presentation-Minhazul-Abedin.pdf` | Same deck as PDF, in case the faculty prefers it or a machine lacks the fonts. |
-| `Speaking-Script-EASY.md` | The word-for-word speaking script. Short simple sentences, just read it aloud. Same text is inside the .pptx as speaker notes (Alt+F5). |
+| `SPEAKING-SCRIPT.txt` | The words to say, in plain text. Same text is inside the .pptx as speaker notes (Alt+F5). |
 | `course-material/` | The four course lecture PDFs and the OBE assignment guideline. |
 
 ## The presentation
